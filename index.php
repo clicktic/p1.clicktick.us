@@ -9,7 +9,7 @@
 		<title>Welcome to Project 1</title>
 	</head>
 	<body>
-		<div><h2>Suresh Balu</h2></div> <!-- Displaying my Name -->
+		<div><h2>Suresh Balu</h2></div> <!-- Displaying my Name for P1 -->
 		<div><h3>About me</h3></div>
 		<div class="box fade-in one"><p><h4>Hello, I am Suresh from New York. Recently, I graduated with my undergrad degree in information system management and found similar program here at Harvard for master degree. For past few years, I have taken the role of a management consultant to assist enterprises with their complex business problem and to design logical solutions. Beside academia and professional life, I enjoy reading, philosophy and anything to do with consciousness.</p>
 
